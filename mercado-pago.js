@@ -1,2 +1,4 @@
 const m = "mercado pago";
-console.lor(m);
+const p = "pagamento";
+
+console.lor(m, p);
